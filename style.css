@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: linear-gradient(to right, #E965CB, #9A7D0A);
+    background-size: cover;
+    border: 1px solid black;
+    height: 1000px;
+    background-image: url('./images/2.jpg');
+    background-size: cover;
+}
+.login {
+    text-align: center;
+    width: 500px;
+    height: 600px;
+    box-shadow: 0 10px 10px -5px;
+
+   margin-top: 100px;
+   
+    margin: 0 auto; 
+    
+    
+
+}
+.login h1 {
+    margin: 20px 200px;
+}
+#user-details {
+    width: 20rem;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+}
+.forgit-password {
+    margin: 15px auto 15px auto;
+    
+}
+.forgit-password a {
+    text-decoration: none;
+    
+}
+.submit-button {
+    width: 6rem;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+}
+.clik {
+    
+    margin: 20px auto auto auto;
+}
+
+
